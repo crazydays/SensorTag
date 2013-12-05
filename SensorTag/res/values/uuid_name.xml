@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="uuid_unknown">UUID Unknown</string>
+
+    <!-- gap service -->
+    <string name="gap_service">Gap Service</string>
+    <string name="gap_device_name">Device Name</string>
+    <string name="gap_appearance">Appearance</string>
+    <string name="gap_peripheral_privacy_flag">Peripheral Privacy Flag</string>
+    <string name="gap_reconnect_address">Reconnect Address</string>
+    <string name="gap_peripheral_preferred_connection_parameters">Peripheral Preferred Connection Parameters</string>
+
+    <!-- gatt service -->
+    <string name="gatt_service">Gatt Service</string>
+    <string name="gatt_service_changed">Gatt Service Changed</string>
+
+    <!-- device info -->
+    <string name="device_info_service">Device Info Service</string>
+    <string name="device_info_system_id">System Id</string>
+    <string name="device_info_model_number">Model Number</string>
+    <string name="device_info_serial_number">Serial Number</string>
+    <string name="device_info_firmware_revision">Firmware Revision</string>
+    <string name="device_info_hardware_revision">Hardware Revision</string>
+    <string name="device_info_software_revision">Software Revision</string>
+    <string name="device_info_manufacture_name">Manufacture Name</string>
+    <string name="device_info_11073_cert_data">11073 Certification Data</string>
+    <string name="pnp_id">PnP Id</string>
+
+    <!-- ir temperature -->
+    <string name="ir_temperature_service">IR Temperature Service</string>
+    <string name="ir_temperature_data">IR Temperature Data</string>
+    <string name="ir_temperature_conf">IR Temperature Configuration</string>
+
+    <!-- accelerometer -->
+    <string name="accelerometer_service">Accelerometer Service</string>
+    <string name="accelerometer_data">Accelerometer Data</string>
+    <string name="accelerometer_conf">Accelerometer Configuration</string>
+    <string name="accelerometer_period">Accelerometer Period</string>
+
+    <!-- humidity -->
+    <string name="humidity_service">Humidity Service</string>
+    <string name="humidity_data">Humidity Data</string>
+    <string name="humidity_conf">Humidity Configuration</string>
+
+    <!-- magnetometer -->
+    <string name="magnetometer_service">Magnetometer Service</string>
+    <string name="magnetometer_data">Magnetometer Data</string>
+    <string name="magnetometer_conf">Magnetometer Configuration</string>
+    <string name="magnetometer_period">Magnetometer Period</string>
+
+    <!-- barometer -->
+    <string name="barometer_service">Barometer Service</string>
+    <string name="barometer_data">Barometer Data</string>
+    <string name="barometer_conf">Barometer Configuration</string>
+    <string name="barometer_period">Barometer Period</string>
+
+    <!-- gyroscope -->
+    <string name="gyroscope_service">Gyroscope Service</string>
+    <string name="gyroscope_data">Gyroscope Data</string>
+    <string name="gyroscope_conf">Gyroscope Configuration</string>
+
+    <!-- test service -->
+    <string name="test_service">Test Service</string>
+    <string name="test_data">Test Data</string>
+    <string name="test_conf">Test Configuration</string>
+
+</resources>

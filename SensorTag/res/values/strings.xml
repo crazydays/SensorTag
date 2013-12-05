@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorTag</string>
+    <string name="btle_not_supported">This device does not Bluetooth LE.</string>
+
+    <!-- scan button -->
+    <string name="start_scan">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+
+    <!-- connection button -->
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- services button -->
+    <string name="services">Services</string>
+
+    <!-- service -->
+    <string name="service_name">Name</string>
+    <string name="service_uuid">UUID</string>
+    <string name="service_type">Type</string>
+
+    <!-- service types -->
+    <string name="service_type_primary">Primary</string>
+    <string name="service_type_secondary">Secondary</string>
+    <string name="service_type_unknown">Unknown</string>
+
+    <!-- characteristic properties -->
+    <string name="characteristic_property_read">R</string>
+    <string name="characteristic_property_write">W</string>
+    <string name="characteristic_property_signed_write">S</string>
+    <string name="characteristic_property_write_no_response">O</string>
+    <string name="characteristic_property_notify">N</string>
+    <string name="characteristic_property_indicate">I</string>
+    <string name="characteristic_property_broadcast">B</string>
+    <string name="characteristic_property_extended_props">E</string>
+
+    <!-- characteristic -->
+    <string name="characteristic_enable_on">Disable</string>
+    <string name="characteristic_enable_off">Enable</string>
+    <string name="characteristic_notify_on">Unsubscribe</string>
+    <string name="characteristic_notify_off">Subscribe</string>
+    <string name="characteristic_read">Read</string>
+
+    <!-- characteristic placeholder values -->
+    <string name="characteristic_placeholder_integer">000</string>
+
+    <!-- ir temperature characteristics -->
+    <string name="ir_temperature_target_label">Target</string>
+    <string name="ir_temperature_ambient_label">Ambient</string>
+
+    <!-- accelerometer -->
+    <string name="period_label">Period</string>
+    <string name="x_axis_label">X Axis</string>
+    <string name="y_axis_label">Y Axis</string>
+    <string name="z_axis_label">Z Axis</string>
+
+</resources>
